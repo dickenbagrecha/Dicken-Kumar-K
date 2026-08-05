@@ -108,9 +108,9 @@ Machine Learning platform for fishery prediction, monitoring, and decision suppo
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/dicken-kumar-k-03aa90368">LinkedIn</a> •
 <a href="https://YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:dickenbagrecha18@gmail.com">Email</a>
+<a href="dickenbagrecha18@gmail.com">Email</a>
 
 </p>
 
