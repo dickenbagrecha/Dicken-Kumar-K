@@ -128,16 +128,27 @@ Machine Learning platform for fishery prediction, monitoring, and decision suppo
 
 ---
 
-## Connect
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/dicken-kumar-k-03aa90368">LinkedIn</a> •
-<a href="https://YOUR_PORTFOLIO">Portfolio</a> •
-<a href="dickenbagrecha18@gmail.com">Email</a>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
+</a>
 
 </p>
-
 ---
 
 > *Building intelligent systems that solve real-world problems through AI and modern software engineering.*
