@@ -1,14 +1,21 @@
 <div align="center">
 
-# Dicken Kumar K
+# 👋 Hi, I'm Dicken Kumar K
 
-### AI & Machine Learning Engineer | Full Stack Developer | Robotics Enthusiast
+### AI & Machine Learning Engineer • Full Stack Developer • Robotics Enthusiast
 
 <p>
-Building intelligent systems using Artificial Intelligence, Machine Learning, Generative AI, and Full Stack technologies.
+Building intelligent AI-powered applications, autonomous systems, and scalable software solutions.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-059669?style=for-the-badge"/>
 
 </div>
 
