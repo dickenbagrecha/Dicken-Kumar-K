@@ -99,22 +99,21 @@ Machine Learning platform for fishery prediction, monitoring, and decision suppo
 
 ---
 
-## GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dickenbagrecha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dickenbagrecha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickenbagrecha&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dickenbagrecha&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dickenbagrecha&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=dickenbagrecha&theme=tokyo-night"/>
 
 </p>
-
 ---
 
 ## Currently Exploring
