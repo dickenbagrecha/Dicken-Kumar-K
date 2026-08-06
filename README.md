@@ -1,24 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Dicken Kumar K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dicken%20Kumar%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### AI & Machine Learning Engineer • Full Stack Developer • Robotics Enthusiast
+<h1>👋 Hi, I'm <span style="color:#7C3AED;">Dicken Kumar K</span></h1>
+
+<h3>
+AI Engineer • Full Stack Developer • Robotics Enthusiast
+</h3>
 
 <p>
-Building intelligent AI-powered applications, autonomous systems, and scalable software solutions.
+Building AI-powered products that combine Machine Learning,
+Generative AI, Computer Vision and Modern Web Technologies.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-059669?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development;Robotics"/>
 
 </div>
-
 ---
 
 ## About Me
