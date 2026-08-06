@@ -131,22 +131,10 @@ Machine Learning platform for fishery prediction, monitoring, and decision suppo
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
-</a>
-
+<a href="https://www.linkedin.com/in/dicken-kumar-k"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>&nbsp;&nbsp;
+<a href="https://github.com/dickenbagrecha"><img src="https://skillicons.dev/icons?i=github" height="55"/></a>&nbsp;&nbsp;
+<a href="mailto:dickenbagrecha18@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" height="55"/></a>&nbsp;&nbsp;
+<a href="https://yourportfolio.com"><img src="https://img.icons8.com/fluency/96/laptop.png" height="55"/></a>
 </p>
 ---
 
