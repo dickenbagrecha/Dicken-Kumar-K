@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dicken%20Kumar%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+  <img src="Git-Banner.jpeg" width="100%" alt="GitHub Banner">
+</p>
 
-<h1>👋 Hi, I'm <span style="color:#7C3AED;">Dicken Kumar K</span></h1>
+<h1> I'm <span style="color:#7C3AED;">Dicken Kumar K</span></h1>
 
 <h3>
 AI Engineer • Full Stack Developer • Robotics Enthusiast
