@@ -16,14 +16,10 @@ Generative AI, Computer Vision and Modern Web Technologies.
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development;Robotics"/>
 
 </div>
----
 
-## About Me
+## 👨‍💻 About Me
 
-- B.E. in Computer Science (AI & ML)
-- Maharaja Institute of Technology, Mysore
-- Passionate about building AI-driven applications and intelligent automation systems.
-- Interested in Generative AI, Agentic AI, Robotics, Computer Vision, and Full Stack Development.
+Hi, I'm **Dicken Kumar K**, an aspiring **AI & Machine Learning Engineer** passionate about creating intelligent solutions that solve real-world problems. My expertise and interests span **Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Robotics, Computer Vision, Full Stack Development, Frontend Engineering, UI/UX Design, and Intelligent Automation**. I enjoy building scalable applications, designing intuitive user experiences, and continuously exploring emerging technologies to create innovative, impactful products.
 
 ---
 
@@ -78,43 +74,30 @@ Generative AI, Computer Vision and Modern Web Technologies.
 ## Featured Projects
 
 ### AI-Based Autonomous Fire Fighting & Surveillance Robot
-
 An intelligent robotic system capable of autonomous navigation, fire detection, surveillance, voice assistance, and remote monitoring.
 
 ### Smart Water Network (E-Actuell)
-
 AI-powered water management platform with real-time monitoring, GIS visualization, predictive analytics, and intelligent control.
 
 ### Sign Language Interpreter
-
 Deep Learning-based real-time sign language recognition using Computer Vision.
 
 ### HomeInventory Agent
-
 Agentic AI assistant for intelligent inventory management and conversational interaction.
 
 ### AI-Powered Marine Fishery Management System
-
 Machine Learning platform for fishery prediction, monitoring, and decision support.
-
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dickenbagrecha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dickenbagrecha&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 <p align="center">
-
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=dickenbagrecha&theme=tokyo-night"/>
-
 </p>
----
+
 
 ## Currently Exploring
 
