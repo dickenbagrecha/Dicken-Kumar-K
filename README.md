@@ -15,13 +15,15 @@ Building AI-powered products that combine Machine Learning,
 Generative AI, Computer Vision and Modern Web Technologies.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Agentic+AI;Computer+Vision;Full+Stack+Development;Robotics"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Robotics;Full+Stack+Development" alt="Typing SVG" />
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Dicken Kumar K**, an aspiring **AI & Machine Learning Engineer** passionate about creating intelligent solutions that solve real-world problems. My expertise and interests span **Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Robotics, Computer Vision, Full Stack Development, Frontend Engineering, UI/UX Design, and Intelligent Automation**. I enjoy building scalable applications, designing intuitive user experiences, and continuously exploring emerging technologies to create innovative, impactful products.
+Hi, I'm **Dicken Kumar K**, an aspiring **AI & Machine Learning Engineer** passionate about creating intelligent solutions that solve real-world problems. My expertise and interests span **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **Generative AI**, **Full-Stack Development**, and **Robotics**.
+
+I enjoy turning ideas into impactful products by combining research, engineering, and real-world problem solving. My goal is to build intelligent systems that improve efficiency, decision-making, and user experiences across industries.
 
 ---
 
@@ -99,7 +101,6 @@ Machine Learning platform for fishery prediction, monitoring, and decision suppo
 <p align="center">
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=dickenbagrecha&theme=tokyo-night"/>
 </p>
-
 
 ## Currently Exploring
 
